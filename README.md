@@ -1,5 +1,7 @@
 # can-symbol
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-symbol.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/canjs/can-symbol.png?branch=master)](https://travis-ci.org/canjs/can-symbol)
 
 Well known symbols used to detail how to operate on different objects
